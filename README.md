@@ -1,5 +1,5 @@
 # Riyadh Blog
-
+require 'pry-nav'
 ## Learning Goals
 
 1. Create an HTML structure for an existing mockup
